@@ -145,6 +145,7 @@
       {
         "slug": "xx99-mark-two-headphones",
         "name": "XX99 Mark II",
+        "type": "new",
         "image": {
           "mobile": "./assets/shared/mobile/image-xx99-mark-two-headphones.jpg",
           "tablet": "./assets/shared/tablet/image-xx99-mark-two-headphones.jpg",
